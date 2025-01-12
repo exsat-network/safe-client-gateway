@@ -4,7 +4,7 @@ const fs = require('fs');
 
 /**
  * This generates const TypeScript ABIs for each asset in
- * `@safe-global/safe-deployments` package for `viem` to infer.
+ * `@exsat/test-safe-deployments` package for `viem` to infer.
  *
  * Although it is possible to get a singleton programmatically and
  * import the JSON directly, neither is strictly typed.

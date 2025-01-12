@@ -5,7 +5,7 @@ import {
   getProxyFactoryDeployments as _getProxyFactoryDeployments,
   getSafeL2SingletonDeployments as _getSafeL2SingletonDeployments,
   getSafeSingletonDeployments as _getSafeSingletonDeployments,
-} from '@safe-global/safe-deployments';
+} from '@exsat/test-safe-deployments';
 
 type Filter = {
   chainId: string;

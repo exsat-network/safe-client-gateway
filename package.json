@@ -32,6 +32,7 @@
   "dependencies": {
     "@aws-sdk/client-kms": "^3.723.0",
     "@aws-sdk/client-s3": "^3.723.0",
+    "@exsat/test-safe-deployments": "^1.37.23",
     "@fingerprintjs/fingerprintjs-pro-server-api": "^6.1.0",
     "@nestjs/cli": "^10.4.9",
     "@nestjs/common": "^10.4.15",
@@ -42,7 +43,6 @@
     "@nestjs/serve-static": "^4.0.2",
     "@nestjs/swagger": "^8.1.0",
     "@nestjs/typeorm": "^10.0.2",
-    "@safe-global/safe-deployments": "^1.37.22",
     "amqp-connection-manager": "^4.1.14",
     "amqplib": "^0.10.5",
     "cookie-parser": "^1.4.7",

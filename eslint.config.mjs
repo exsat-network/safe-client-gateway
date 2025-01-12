@@ -43,7 +43,7 @@ export default tseslint.config(
         {
           paths: [
             {
-              name: '@safe-global/safe-deployments',
+              name: '@exsat/test-safe-deployments',
               message:
                 'Please import from @/domain/common/utils/deployments instead.',
             },

@@ -3,7 +3,7 @@ import fs from 'fs';
 
 /**
  * This generates a map of contract names to chain IDs to a versions array
- * from all deployments in the `@safe-global/safe-deployments` package.
+ * from all deployments in the `@exsat/test-safe-deployments` package.
  *
  * It is important to note that not all versions of a contract are deployed
  * on all chains and there is naming variation across versions.
