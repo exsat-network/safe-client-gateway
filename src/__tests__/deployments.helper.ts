@@ -62,8 +62,8 @@ const deploymentAliases = {
 const assetsDir = path.join(
   process.cwd(),
   'node_modules',
-  '@safe-global',
-  'safe-deployments',
+  'exsat',
+  'test-safe-deployments',
   'dist',
   'assets',
 );
